@@ -1,3 +1,5 @@
+[![An image of @simranroy01's Holopin board](https://holopin.me/simranroy01)](https://holopin.io/@simranroy01)
+
 - 👋 Hi, I’m @simranroy01
 - 👀 I’m interested in AI ML, Robotics and Ethical Hacking.
 - 🌱 I’m currently learning AI & ML 
